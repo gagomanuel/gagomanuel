@@ -1,4 +1,4 @@
-# Hola, como va? Bienvenidxs!
+# Hola!
 
 - 💻 Mi principal lenguaje de programacion y en el cual me he focalizado es Python, ya que para mi fue de facil comprension a la hora de iniciarme en programacion. 
 
