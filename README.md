@@ -4,12 +4,10 @@
 
 - 🔍Reconozco que existe una vasta cantidad de áreas donde aplicar este lenguaje y actualmente busco aprender sobre Base de Datos y Frameworks.
 
-- 📖 Comencé a estudiar Licenciatura en Sistemas en la UNLP en el año 2020 y luego continue mi camino de forma autodidacta realizando cursos online, asistiendo a charlas y workshhops
+- 📖 Comencé a estudiar Licenciatura en Sistemas en la UNLP en el año 2020 y luego continue mi camino de manera autodidacta tomando cursos online, asistiendo a charlas y workshhops
 
-- 📨 Para contactarme pueden comunicarse via mail (manuelmeg96@gmail.com), o tambien a traves de mi perfil en [LinkedIn](https://www.linkedin.com/in/manuel-gago-37b6151b9/).
+- 📨 Contacto: [Gmail](manuelmeg96@gmail.com) , o tambien a traves de mi perfil en [LinkedIn](https://www.linkedin.com/in/manuel-gago-37b6151b9/).
 
-Gracias por tomarse el tiempo de leer hasta aca,
-  Saludos!
 
 <!---
 manuel96meg/manuel96meg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
