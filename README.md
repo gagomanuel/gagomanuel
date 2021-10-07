@@ -2,7 +2,7 @@
 
 - 💻 Mi principal lenguaje de programacion y en el cual me he focalizado es Python, ya que para mi fue de facil comprension a la hora de iniciarme en programacion. 
 
-- 🔍Reconozco que existe una vasta cantidad de áreas donde aplicar este lenguaje y actualmente busco aprender sobre Base de Datos y Frameworks.
+- 🔍Reconozco que existe una vasta cantidad de áreas donde aplicar este lenguaje y actualmente busco aprender sobre Bases de Datos y Frameworks.
 
 - 📖 Comencé a estudiar Licenciatura en Sistemas en la UNLP en el año 2020 y luego continue mi camino de manera autodidacta tomando cursos online, asistiendo a charlas y workshhops
 
