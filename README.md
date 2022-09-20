@@ -1,8 +1,6 @@
 # Hola!
 
-- 💻 Mi principal lenguaje de programacion y en el cual me he focalizado es Python, ya que para mi fue de facil comprension a la hora de iniciarme en programacion. 
-
-- 🔍Reconozco que existe una vasta cantidad de áreas donde aplicar este lenguaje y actualmente busco aprender sobre Bases de Datos y Web Development.
+- 💻 Actualmente me estoy perfeccionando como Programador Full Stack con preferencia por el área de Front-End. Esto incluye HTML, CSS, Javascript y MySQL, entre otros. Tambien tengo conocimientos sobre Python ya que fue el primer lenguaje de programacion que decidi aprender
 
 - 📖 Comencé a estudiar Licenciatura en Sistemas en la UNLP en el año 2020 y luego continue mi camino de manera autodidacta tomando cursos online, asistiendo a charlas y workshhops
 
